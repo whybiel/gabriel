@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>😄Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/gabriel-henrique-ferreira-de-moraes-3328831ab/"><i>Gabriel Henrique</i></a></h1>
+  <h1 align="center">>😄Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/gabriel-henrique-ferreira-de-moraes-3328831ab/"><i>Gabriel Henrique</i></a></h1>
   <p align="center">Estudo Desenvolvimento Web no <a href="https://www.vainaweb.com.br/"><i>Vai na Web</i></a> com foco em Front-end.
 </div>
 
