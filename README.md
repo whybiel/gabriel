@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <a href="https://whybiel.github.io>
+  <a href="https://whybiel.github.io">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=whybiel&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whybiel&theme=dark&hide_border=false&&layout=compact"/>
   </a>
@@ -33,6 +33,5 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
   <p>Créditos: <i>Gabriel😵‍💫</i></p>
 </div>
