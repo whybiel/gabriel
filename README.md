@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">>😄Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/gabriel-henrique-ferreira-de-moraes-3328831ab/"><i>Gabriel Henrique</i></a></h1>
-  <p align="center">Estudo Desenvolvimento Web no <a href="https://www.vainaweb.com.br/"><i>Vai na Web</i></a> com foco em Front-end.
+  
 </div>
 
 
