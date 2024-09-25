@@ -28,5 +28,4 @@
 </div>
 
 <div align="center">
-  <p>Créditos: <i>Gabriel😵‍💫</i></p>
 </div>
